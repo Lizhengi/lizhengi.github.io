@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lizhengi.github.io</id>
     <title>🌰栗筝的博客</title>
-    <updated>2020-09-15T05:10:46.888Z</updated>
+    <updated>2020-09-15T05:17:31.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lizhengi.github.io"/>
     <link rel="self" href="https://lizhengi.github.io/atom.xml"/>
@@ -10,19 +10,4 @@
     <logo>https://lizhengi.github.io/images/avatar.png</logo>
     <icon>https://lizhengi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 🌰栗筝的博客</rights>
-    <entry>
-        <title type="html"><![CDATA[可扩展的编程语言——Scala]]></title>
-        <id>https://lizhengi.github.io/post/ke-kuo-zhan-de-bian-cheng-yu-yan-scala/</id>
-        <link href="https://lizhengi.github.io/post/ke-kuo-zhan-de-bian-cheng-yu-yan-scala/">
-        </link>
-        <updated>2020-09-15T03:30:13.000Z</updated>
-        <content type="html"><![CDATA[<p>Scala是一种多范式的编程语言，其设计的初衷是要集成面向对象编程和函数式编程的各种特性。Scala运行于Java平台（Java虚拟机），并兼容现有的Java程序。</p>
-<p>从技术层面上讲，Scala是一种把面向对象和函数式编程理念加入静态类型语言的混合体</p>
-<ul>
-<li>运行在标准的Java平台上，可以与所有的Java库无缝交互；</li>
-<li>可以编写脚本，把Java组建组合起来；</li>
-<li>更能发挥它力量的地方，在于用它来建立大型系统或可重用控件的架构。</li>
-</ul>
-]]></content>
-    </entry>
 </feed>
